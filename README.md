@@ -2,6 +2,8 @@
 
 A modern, glassmorphic calculator built with vanilla HTML, CSS, and JavaScript. Features a stunning UI with dark/light theme toggle and full keyboard support.
 
+🔗 **[Live Demo](https://forkei.github.io/ClaudeCodeTutorial/)**
+
 ## Features
 
 - ✨ Beautiful glassmorphic design
